@@ -1,20 +1,32 @@
 # DataScience
-Machine Learning projects on different databases for practice and interest
+Machine Learning projects on different databases for practice and personal interests.
+
+
 ML algorithms used:
  Supervised ML:
-  - LR
+  - Logistic Regression
   - SVM
-  - DT
-  - knn
+  - Decision Tree
+  - k nn
   Ensemble supervised ML:
-  - RF
+  - Random Forest
 Data preprocessing methods:
-- PCA
+- data cleaning
 - text preprocessing
-Analysis improvement methods:
-- cross-validation
+- sample normalization
+- PCA
 KPI considered:
 - confusion matrix
 - precision
 - accuracy
 - recall
+- f1-score
+- ROC Curve
+
+
+Future planned analysis:
+ Unsupervised ML:
+ - k-means
+ Ensemble method:
+ - gradient boosting
+ Time series analysis
